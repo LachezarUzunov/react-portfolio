@@ -1,7 +1,7 @@
-import classes from './Testimonialst.module.css';
+import classes from './Testimonials.module.css';
 
-const Testimonialst = () => {
-    return <div>Testimonialst</div>
+const Testimonials = () => {
+    return <div>Testimonials</div>
 }
 
-export default Testimonialst;
+export default Testimonials;
