@@ -1,7 +1,7 @@
 import classes from './Experience.module.css';
 
 const Experience = () => {
-    return <div>Experience</div>
+    return <section id='experience'>Experience</section>
 }
 
 export default Experience;
